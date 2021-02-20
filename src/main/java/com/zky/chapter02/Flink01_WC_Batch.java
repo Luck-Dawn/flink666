@@ -17,7 +17,7 @@ import org.apache.flink.util.Collector;
 public class Flink01_WC_Batch {
     public static void main(String[] args) throws Exception {
         //1：获取运行环境
-        System.out.println(111);
+        System.out.println(666);
         ExecutionEnvironment env = ExecutionEnvironment.getExecutionEnvironment();
 
         //2.读取有界文件流
